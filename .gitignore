@@ -1,0 +1,25 @@
+# Windows executables
+*.exe
+
+# GCC / C++ compiled binaries
+*.out
+*.o
+*.obj
+
+# Debug files
+*.pdb
+*.ilk
+
+# Visual Studio
+.vs/
+Debug/
+Release/
+x64/
+x86/
+
+# VS Code local settings
+.vscode/
+
+# macOS / misc
+.DS_Store
+Thumbs.db
